@@ -1,0 +1,23 @@
+.picture{
+position: absolute;
+top: 200px;
+right: 100px;
+height: 300px;
+
+}
+
+.Skyline{
+ position: relative;
+height: 200px;
+width: 500px;
+    
+}
+
+.books{
+    position: absolute;
+    right: 50px;
+    top: 200px
+    
+    
+}
+
